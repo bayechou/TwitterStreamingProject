@@ -1,4 +1,4 @@
-Solution d'exercice: Twitter
+-Solution d'exercice: Twitter
 Create a Scala project in proper structure using Class, Interface, configuration files, unit
 tests etc that retrieves tweets from a twitter account (eg @realDonaldTrump) in a continuous
 manner (streaming) and store the tweets in a csv file with an extra field/ column called "Status"
